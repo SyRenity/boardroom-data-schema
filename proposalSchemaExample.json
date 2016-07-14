@@ -1,0 +1,12 @@
+{
+ "@context": "http://boardroom.to",
+ "@type": "Proposal",
+ "name": "Proposal Name",
+ "destination": "0x...",
+ "value": "0",
+ "calldata": "",
+ "proxy": "0x...",
+ "created": "2016-03-01T13:00:00Z/2008-05-11T15:30:00Z",
+ "debatePeriod": "15",
+ "hash": "0x11ff211a343ad9b56f5161d1fa03fbabcb80530559024536...."
+}
