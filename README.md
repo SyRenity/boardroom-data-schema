@@ -1,4 +1,4 @@
-# boardroom-data-schema
+# Data Schema's
 Our data storage schema designs for proposals and other governance related items
 
 ## Influence
