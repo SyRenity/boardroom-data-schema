@@ -1,6 +1,15 @@
 # boardroom-data-schema
 Our data storage schema designs for proposals and other governance related items
 
+## Influence
+Much of the data schema design is influenced by http://schema.org/.
+
+## Contributing
+If you would like to contribute to the data schema designs, please make a BRIP proposal.
+
+See:
+http://github.com/boardroom-project/BRIPs
+
 ## IPFS
 These data schema's will be used for data storage in IPFS repositories. Generally, these IPFS repositories will be publicly available, and will enrich the BoardRoom governance experience in a decentralized and distributed way. 
 
