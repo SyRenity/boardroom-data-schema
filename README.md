@@ -1,8 +1,10 @@
 # boardroom-data-schema
 Our data storage schema designs for proposals and other governance related items
 
-## License
+## IPFS
+These data schema's will be used for data storage in IPFS repositories. Generally, these IPFS repositories will be publicly available, and will enrich the BoardRoom governance experience in a decentralized and distributed way. 
 
+## License
 ```
 The MIT License
 
