@@ -1,6 +1,8 @@
 {
  "@context": "http://boardroom.to",
  "@type": "Proposal",
+ "boardroom": "0x...",
+ "from": "0x...",
  "name": "Proposal Name",
  "destination": "0x...",
  "value": "0",
